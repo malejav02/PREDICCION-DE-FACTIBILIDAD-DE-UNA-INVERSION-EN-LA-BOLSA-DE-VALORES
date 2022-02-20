@@ -1,4 +1,4 @@
-# PREDICCION DE FACTIBILIDAD DE UNA INVERSION EN LA BOLSA DE VALORES
+# PREDICCIÓN DE FACTIBILIDAD DE UNA INVERSIÓN EN LA BOLSA DE VALORES
 
 El programa presentado es un soporte para realizar actividades de trading, pues en este se
 brindan herramientas de ayuda para los traders en el momento de decidir sí es factible 
